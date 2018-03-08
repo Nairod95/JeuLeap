@@ -13,7 +13,7 @@ La méthode retourne une chaîne de caractère contenant la liste des demandes a
 - La méthode **DisplayRequest()** permet d'afficher une requête par son indice, elle prend en paramètre l'objet requests et l'indice de la requête à afficher.
 La méthode retourne l'id de la requête affichée.
 # configuration
-Variable à configurer :
+Variables à configurer :
 - urlService : URL de l'API middleoffice
 - username : identifiant du Basic Authentication
 - password : mot de passe du Basic Authentication
